@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Empleados>
+  <persona>
+    <id>2</id>
+    <nombre>SEBAS</nombre>
+    <apellidos>JATIVA</apellidos>
+    <direccion>Universitario</direccion>
+  </persona>
+  <persona>
+    <id>3</id>
+    <nombre>SAMY</nombre>
+    <apellidos>GUERRERO</apellidos>
+    <direccion>Universitario</direccion>
+  </persona>
+  <persona>
+    <id>4</id>
+    <nombre>MAIK</nombre>
+    <apellidos>SANTILLAN</apellidos>
+    <direccion>Universitario</direccion>
+  </persona>
+  <persona>
+    <id>5</id>
+    <nombre>DIEGO</nombre>
+    <apellidos>LOGROÑO</apellidos>
+    <direccion>Universitario</direccion>
+  </persona>
+  <persona>
+    <id>6</id>
+    <nombre>ROMERO</nombre>
+    <apellidos>ROMERO</apellidos>
+    <direccion>Universitario</direccion>
+  </persona>
+</Empleados>
